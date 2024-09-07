@@ -1,12 +1,12 @@
 <?php
 
-namespace pavelstudio\tests;
+namespace pavelstudio\SimpleCurl\tests;
 
-use pavelmister\FunctionalCurl;
+use pavelmister\SimpleCurl;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 
-class SimpleCurl extends TestCase
+class SimpleCurlTests extends TestCase
 {
     /**
      * This test have live connection, need configure SSL in your environment for CURL
