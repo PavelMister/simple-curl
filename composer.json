@@ -10,7 +10,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Pavelmister\\SimpleCurl\\": "tests/"
+            "Pavelmister\\SimpleCurl\\Tests\\": "tests/"
         }
     },
     "authors": [
