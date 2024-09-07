@@ -1,0 +1,21 @@
+{
+    "name": "pavelmister/simple-curl",
+    "type": "library",
+    "license": "Free",
+    "autoload": {
+        "psr-4": {
+            "Pavelmister\\SimpleCurl\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pavelmister\\SimpleCurl\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Mister"
+        }
+    ],
+    "require": {}
+}
