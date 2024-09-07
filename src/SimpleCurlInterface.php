@@ -2,7 +2,7 @@
 
 namespace pavelstudio\src;
 
-interface FunctionalCurlInterface
+interface SimpleCurlInterface
 {
     /**
      * @param $field string

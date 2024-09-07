@@ -9,14 +9,14 @@ use pavelstudio\src\FunctionalCurl;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 
-class TestFunctionalCurl extends TestCase
+class SimpleCurl extends TestCase
 {
     /**
      * This test have live connection, need configure SSL in your environment for CURL
      */
     public function testRunGet()
     {
-        $ext = new FunctionalCurl();
+        $ext = new SimpleCurl();
 //        $ext->SetProxy('192.168.1.5:8888');
 
         $ext->request('GET', 'example.com');

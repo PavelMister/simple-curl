@@ -9,7 +9,7 @@ use pavelstudio\src\FunctionalCurlInterface;
 use Zend\Dom\Query;
 
 
-class FunctionalCurl implements FunctionalCurlInterface
+class SimpleCurl implements SimpleCurlInterface
 {
     /**
      * @var $latestHtml string
