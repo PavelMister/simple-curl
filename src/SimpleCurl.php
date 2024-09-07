@@ -3,11 +3,10 @@
  * @author Pavel Mister <pavel.mister@gmail.com>
  */
 
-namespace pavelstudio\src;
+namespace pavelmister;
 
-use pavelstudio\src\FunctionalCurlInterface;
+use pavelmister\FunctionalCurlInterface;
 use Zend\Dom\Query;
-
 
 class SimpleCurl implements SimpleCurlInterface
 {

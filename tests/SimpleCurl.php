@@ -2,10 +2,7 @@
 
 namespace pavelstudio\tests;
 
-
-require_once 'autoload.php';
-
-use pavelstudio\src\FunctionalCurl;
+use pavelmister\FunctionalCurl;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 

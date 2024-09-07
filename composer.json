@@ -1,5 +1,6 @@
 {
     "name": "pavelmister/simple-curl",
+    "description": "Library for easy use curl",
     "type": "library",
     "license": "MIT",
     "autoload": {
