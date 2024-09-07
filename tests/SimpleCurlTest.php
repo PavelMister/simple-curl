@@ -1,6 +1,6 @@
 <?php
 
-namespace pavelstudio\SimpleCurl\tests;
+namespace pavelmister\SimpleCurl\tests;
 
 use pavelmister\SimpleCurl;
 use InvalidArgumentException;
