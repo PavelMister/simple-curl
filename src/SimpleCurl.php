@@ -5,7 +5,7 @@
 
 namespace pavelmister\SimpleCurl;
 
-use pavelmister\FunctionalCurlInterface;
+use pavelmister\SimpleCurlInterface;
 use Zend\Dom\Query;
 
 class SimpleCurl implements SimpleCurlInterface
