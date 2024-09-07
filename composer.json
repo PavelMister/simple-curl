@@ -1,7 +1,7 @@
 {
     "name": "pavelmister/simple-curl",
     "type": "library",
-    "license": "Free",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Pavelmister\\SimpleCurl\\": "src/"
