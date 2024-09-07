@@ -3,7 +3,7 @@
  * @author Pavel Mister <pavel.mister@gmail.com>
  */
 
-namespace pavelmister;
+namespace pavelmister\SimpleCurl;
 
 use pavelmister\FunctionalCurlInterface;
 use Zend\Dom\Query;

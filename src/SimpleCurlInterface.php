@@ -1,6 +1,6 @@
 <?php
 
-namespace pavelstudio\src;
+namespace pavelmister\SimpleCurl;
 
 interface SimpleCurlInterface
 {
